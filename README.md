@@ -24,4 +24,4 @@ _This website was written with HTML and CSS, and created using the Atom text edi
 
 *This project is licensed under the GPL License.*
 
-Copyright (c) 2016 **_Eric Swotinsky_**
+Copyright (c) 2018 **_Eric Swotinsky_**
